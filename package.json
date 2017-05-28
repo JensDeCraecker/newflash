@@ -7,8 +7,7 @@
     "test": "test"
   },
   "author": "De Craecker Jens",
-  "license": "ISC"
-  },
+  "license": "ISC",
   "homepage": "",
   "dependencies": {
     "ejs": "^2.5.6",
